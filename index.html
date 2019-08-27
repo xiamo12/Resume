@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>hello world</title>
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" href="css/jquery.fullPage.css">
+</head>
+<body>
+	<nav id="navbar">
+		<a href="#page1">HELLO</a>
+		<a href="#page2">个人信息</a>
+		<a href="#page3">作品集</a>
+		<a href="#page4">关于我</a>
+	</nav>
+
+
+	<div id="box">
+		<section class="section section1">
+			<h1>WELCOME</h1>
+			<p>输出价值</p>
+		</section>
+		<section class="section section2">
+			<h1>个人信息</h1>
+			<div class="container">
+				<ul class="left">
+					<li><span>姓名</span>| 罗菲</li>
+					<li><span>学历</span>| 武汉理工大学 | 硕士研究生</li>
+					<li><span>电话</span>| 15927063107</li>
+					<li><span>微信号</span>| LF01141218C</li>
+					<li><span>GitHub</span>| </li>
+					<li><span>博客地址</span>| </li>
+				</ul>
+				<ul class="right">
+					<li><span>基础技能</span>| html css
+						<br/>
+						<span>熟悉html/css前端页面实现技术。熟悉页面架构与布局，响应式布局和弹性盒布局，熟悉BFC、float、position、弹性盒模型、双飞翼布局、圣杯布局等等页面布局相关的css特性；对HTML语义化有一定的了解</span></li>
+					<li><span>Javascript</span>
+						<br/>
+						<span>熟悉DOM、BOM操作，闭包，原型链的继承机制，</span></li>
+					<li><span>框架</span> React | jQuery <br />
+						<span>了解react框架；常用react官方脚手架工具搭建项目模型。
+						了解jQuery框架，可使用jQuery操作DOM，进行事件绑定、动画处理等等操作。</span></li>
+					<li><span>自动化构建工具</span>| webpack gulp<br/>
+						<span>掌握webpack、gulp自动化构建工具，可使用webpack搭建react项目结构，并使用babel编译工具进行编译</span></li>
+					<li><span>数据库</span>| mongodb</li>
+					<li><span>其他</span><br />
+						<span>熟练使用Sublime、Photoshop等开发工具，熟悉Git版本管理；
+							每周至少3次向个人GitHub仓库提交项目代码/小demo/学习笔记。
+							了解支付宝移动组件库ant design mobile，可在文档帮助下，快速搭建基于antd-mobile的前端界面react实现；
+							了解Ajax，接触过JSON，node.js，
+						</span></li>
+				</ul>
+			</div>
+			
+		</section>
+		<section class="section section3">
+			<h1>作品集</h1>
+			<h3>蜜蜂App</h3>
+			<p>项目技术栈：</p>
+			<ul>
+				<li>前端：React + Redux + ES6 + webpack + antd-mobile</li>
+				<li>后端：node + express + mongodb + socketIO</li>
+			</ul>
+			<p>本人负责：前端+后端代码的编写，项目文档的整理，并将项目进度及时更新到GitHub上</p>
+			<p>项目描述：这是一个求职类的单页面即时通讯App。可实现用户注册、用户登录、employee和employer之间的即时通讯等等功能。</p>
+			<p>技术实现：这是一个前后端分离的应用，项目基于antd-mobile进行UI界面的布局，使用react进行项目的构建，redux进行状态管理。通过axios封装ajax请求获取请求对象。数据存储在mongodb数据库里，使用mongoose对mongodb进行便捷操作。远程实时通讯的功能由socketIO实现。</p>
+			<a href="">代码地址</a>
+
+			<h3>茶饮订单评价</h3>
+			<p>技术栈：</p>
+			<p>React</p>
+			<p>本人负责：前端组件代码的编写，并将项目进度更新到GitHub上</p>
+			<p>项目描述：这是一个订餐订单列表的前端界面。实现了对每一个订单项进行打星、评价的功能。</p>
+			<p>技术实现：项目通过React框架实现了代码的模块化、组件化，和原生js代码相比将开发效率提高了50%以上</p>
+			<a href="">代码地址</a>
+			<h3>CSS小动画</h3>
+			<a href="https://xiamo12.github.io/CSSProject/Loading-Animation/index.html">等待加载···</a>
+			<a href="https://xiamo12.github.io/CSSProject/bulb-lighting/index.html">点亮这个小灯泡</a>
+			<a href="https://xiamo12.github.io/CSSProject/text-jump/index.html">文字跳跃</a>
+		</section>
+		<section class="section section4">
+			<h1>关于我</h1>
+		</section>
+	</div>
+	<script src="js/jquery-1.8.3.min.js"></script>
+	<script src="js/jquery.fullPage.min.js"></script>
+	<script type="text/javascript" src="./js/main1.js"></script>
+</body>
+</html>

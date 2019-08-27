@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+nav{
+	display: flex;
+	flex-direction: column;
+	position: fixed;
+	right: 20px;
+	top: 35%;
+	font: 1rem 'Microsoft Yahei';
+	z-index: 10;
+}
+nav a{
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+	margin: 5px 0;
+	text-decoration: none;
+	text-align: center;
+	background: white;
+	border-radius: 5px;
+	color: #69f;
+}
+nav a:hover{
+	background: #69f;
+	color: white;
+}
+
+.section1{
+	text-align: center;
+	font-size: 4rem;
+}
+.section1 p{
+	font-size: 1rem;
+}
+.section2 h1{
+	width: 20rem;
+	font-size: 4rem;
+	margin: 1rem auto;
+	background: orange;
+}
+.container{
+	height: 60%;
+	display: flex;
+	justify-content: space-around;
+	background: yellow;
+	font: 2rem;
+}
+
+.left{
+	flex-flow: 1;
+	background: orange;
+	list-style-type: none;
+}
+.right{
+	flex-flow: 2;
+	background: pink;
+	list-style-type: none;
+}
+
+.section3 h1{
+	width: 20rem;
+	font-size: 3rem;
+	margin: 0 auto;
+	margin-top: -18rem;
+	text-align: center;
+	background: orange;
+}
+.section3 h3{
+	font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
