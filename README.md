@@ -7,12 +7,12 @@
  - 博客: 我的博客	    		
  - GitHub: 我的github	
 
-# 教育背景
+## 教育背景
 
  - 2013.9 ~ 2015.6 | 武汉理工大学【211】 | 化学工程与工艺 | 硕士
  - 2009.9 ~ 2013.6 | 武汉理工大学【211】 | 化学工程与工艺 | 本科
 ---
-# 个人技能
+## 个人技能
 
  - 基  础： HTML | CSS | JavaScript ：熟悉页面架构与布局，能够高保真还原UI设计效果；掌握CSS3动画、过渡效果；BFC、弹性盒模型、双飞翼布局、圣杯布局等等CSS特性；对HTML语义化有一定的了解；熟悉DOM、BOM操作以及其它原生JavaScript操作方法。
  
@@ -25,7 +25,7 @@
  - 其 他：熟练使用 Sublime、 Photoshop 等开发及相关工具；熟悉 Git 版本管理工具的基本用法； 每周至少3次向个人 GitHub仓库 提交项目代码/小demo/学习笔记；了解支付宝移动组件库Ant Design Mobile，可在文档帮助下，快速搭建基于 Antd-Mobile 的前端界面 React 实现；了解 Ajax ，接触过 JSON 、Node.js。
 ---
 
-# 项目经历 
+## 项目经历 
 
 ### 蜜蜂求职App	
 
@@ -49,19 +49,19 @@
 
 ### 一些有趣的CSS动画
 
-等待加载···[https://xiamo12.github.io/CSSProject/Loading-Animation/index.html]		
-点亮这个小灯泡 [pc端][https://xiamo12.github.io/CSSProject/bulb-lighting/index.html]		
-文字跳跃[https://xiamo12.github.io/CSSProject/text-jump/index.html]		
-变色九宫格[https://xiamo12.github.io/CSSAnimation/pettengJsTask1/index.html]
+ - 等待加载···[https://xiamo12.github.io/CSSProject/Loading-Animation/index.html]
+ - 点亮这个小灯泡 [pc端][https://xiamo12.github.io/CSSProject/bulb-lighting/index.html]		
+ - 文字跳跃[https://xiamo12.github.io/CSSProject/text-jump/index.html]		
+ - 变色九宫格[https://xiamo12.github.io/CSSAnimation/pettengJsTask1/index.html]
 
 ---
 
-# 工作经历
+## 工作经历
 
  - 2015.9～2018.9    社交电商独立运营。三年累计总营业额600万+，引流拉新客户量6万+，转化率8%左右。
 ---
 
-# 个人评价
+## 个人评价
 
 ### 对获取新知识/新技能有着强烈的兴趣，自学能力较强
 
